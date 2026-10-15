@@ -1,0 +1,6 @@
+# Git Merge Guide
+
+## 1. Check the current branch
+
+```bash
+git branch --show-current
